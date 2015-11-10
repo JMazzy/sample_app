@@ -44,10 +44,11 @@ group :development, :test do
 end
 
 group :test do
-  # gem 'minitest-reporters'
-  # gem 'mini_backtrace'
-  # gem 'guard-minitest'
-  gem 'guard-rspec'
+  gem 'guard'
+  gem 'guard-minitest'
+  gem 'minitest-rails'
+  gem 'minitest-reporters'
+  gem 'mini_backtrace'
 end
 
 group :production do
