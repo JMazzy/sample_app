@@ -1,7 +1,3 @@
 #!/bin/bash
 
-gnome-terminal -t "git"
-gnome-terminal -t "rails server"
-gnome-terminal -t "rails console"
-gnome-terminal -t "guard"
-gnome-terminal -t "ruby pry"
+gnome-terminal --tab-with-profile=Default -t "git" --tab-with-profile=Default -t "rails server" --tab-with-profile=Default -t "rails console" --tab-with-profile=Default -t "guard" --tab-with-profile=Default -t "ruby pry"
