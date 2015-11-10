@@ -18,3 +18,5 @@
 
 # Ignore spring
 /spring/*.pid
+
+/terminals.sh
