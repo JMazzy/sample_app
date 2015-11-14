@@ -4,6 +4,7 @@ class UsersController < ApplicationController
   end
 
   def new
+<<<<<<< HEAD
     @user = User.new
   end
 
@@ -15,6 +16,9 @@ class UsersController < ApplicationController
     else
       render 'new'
     end
+=======
+    
+>>>>>>> sign-up
   end
 
   private

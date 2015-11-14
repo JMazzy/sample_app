@@ -51,11 +51,14 @@ GEM
       will_paginate
     builder (3.2.2)
     byebug (8.2.0)
+<<<<<<< HEAD
     carrierwave (0.10.0)
       activemodel (>= 3.2.0)
       activesupport (>= 3.2.0)
       json (>= 1.7)
       mime-types (>= 1.16)
+=======
+>>>>>>> sign-up
     coderay (1.1.0)
     coffee-rails (4.1.0)
       coffee-script (>= 2.2.0)
