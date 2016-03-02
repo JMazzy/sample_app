@@ -1,6 +1,4 @@
-== README
-
 #Ruby on Rails Tutorial: sample application
 
 This is the sample application for the [*Ruby on Rails Tutorial:
-Learn Learn Web Development with Rails*](http://www.railstutorial.org/).
+Learn Web Development with Rails*](http://www.railstutorial.org/).
